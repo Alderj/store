@@ -41,3 +41,8 @@
     font-family: 'Segoe UI';
     padding: 5px;
 }
+
+.menu-bar__item ul li a:hover{
+    color: blue;
+    font-weight: 600;
+}
